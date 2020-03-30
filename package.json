@@ -1,0 +1,28 @@
+{
+  "name": "leechjs",
+  "version": "0.1.0",
+  "description": "A simple library to put hooks on stuff in javascript",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yotam180/leechJS.git"
+  },
+  "keywords": [
+    "hooks",
+    "javascript",
+    "testing",
+    "debugging"
+  ],
+  "author": "Yotam Salmon",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yotam180/leechJS/issues"
+  },
+  "homepage": "https://github.com/yotam180/leechJS#readme",
+  "devDependencies": {
+    "jest": "^25.2.4"
+  }
+}
